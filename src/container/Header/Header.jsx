@@ -9,3 +9,9 @@ const Header = () => (
 );
 
 export default Header;
+
+
+/**
+ * Stopped at 4:03:00
+ * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
+ */
