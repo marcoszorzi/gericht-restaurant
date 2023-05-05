@@ -9,3 +9,8 @@ const AboutUs = () => (
 );
 
 export default AboutUs;
+
+/**
+ * Video stopped at 4:12:50
+ * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
+ */
