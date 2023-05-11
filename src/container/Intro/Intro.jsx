@@ -9,3 +9,8 @@ const Intro = () => (
 );
 
 export default Intro;
+
+/**
+ * Stopped at: 5:05:45
+ * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
+ */
