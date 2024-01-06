@@ -25,17 +25,10 @@ const Laurels = () => (
       </div>
     </div>
 
-    <div className='app__wapper_img'>
+    <div className='app__wrapper_img'>
       <img src={images.laurels} alt='laurels'/>
     </div>
   </div>
 );
 
 export default Laurels;
-
-
-
-/**
- * Stopped at: 5:28:39
- * https://www.youtube.com/watch?v=F627pKNUCVQ&t=499s
- */
